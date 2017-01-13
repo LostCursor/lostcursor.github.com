@@ -1,0 +1,22 @@
+<!DOCTYPE css>
+
+body {background-color: black;}
+h1 {
+    color: green;
+    font-family: verdana;
+    font-size: 300%;
+}
+h2 {
+    color: green;
+    font-family: verdana;
+    font-size: 230%;
+}
+p  {
+    color: green;
+    font-family: verdana;
+    font-size: 160%;
+}
+p {
+    border: 1px solid green;
+    padding: 30px;
+}
